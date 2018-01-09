@@ -1,0 +1,10 @@
+e5a9057c8035397a35d91aa68446753f *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+9baa06efe748217f50d0bb68835abd4e *R/bullwhipgame.R
+33d4fc53e3f7306c7d3781b71a9e8f2a *inst/shiny/server.R
+e788eee6498c3c8ae4cf3cc951816e76 *inst/shiny/ui.R
+0d0f8af196850927b91ad626e00047a4 *inst/shiny/www/chain_425x550.png
+ddf4cebfd13b0c79ca839661f848c7f4 *inst/shiny/www/email_Marlene.png
+3c3309ed1c17644c20325660d074a80a *inst/shiny/www/flatly.css
+7798081602c21e948b19b62c5c6a60de *inst/shiny/www/gplv3-127x51.png
+9efd9894d6f9e3fabb8a57b5885ef144 *man/bullwhipgame.Rd
